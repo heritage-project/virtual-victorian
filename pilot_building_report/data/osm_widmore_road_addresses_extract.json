@@ -1,0 +1,662 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-10T23:10:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 293018639,
+  "lat": 51.4062091,
+  "lon": 0.0169549,
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "Widmore Road",
+    "check_date": "2023-09-17",
+    "level": "0",
+    "name": "Bromley Bike Co",
+    "shop": "bicycle",
+    "website": "http://www.bromleybike.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 420300530,
+  "lat": 51.4059389,
+  "lon": 0.0160931,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "10",
+    "addr:postcode": "BR1 1RY",
+    "addr:street": "Widmore Road",
+    "amenity": "restaurant",
+    "brand": "Franco Manca",
+    "brand:wikidata": "Q28404417",
+    "check_date": "2023-09-17",
+    "cuisine": "pizza",
+    "fhrs:id": "949254",
+    "level": "0",
+    "name": "Franco Manca",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "source:addr": "FHRS Open Data",
+    "takeaway": "yes",
+    "website": "https://www.francomanca.co.uk/restaurants/bromley/"
+  }
+},
+{
+  "type": "node",
+  "id": 420777391,
+  "lat": 51.4059310,
+  "lon": 0.0159339,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "8",
+    "addr:postcode": "BR1 1RY",
+    "addr:street": "Widmore Road",
+    "check_date": "2023-09-17",
+    "fhrs:id": "1014363",
+    "level": "0",
+    "name": "Bromley Health Store",
+    "opening_hours": "Mo-Sa 09:30-17:30; Su 11:00-17:00; PH 10:00-16:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "health_food",
+    "source:addr": "FHRS Open Data",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 567598081,
+  "lat": 51.4060916,
+  "lon": 0.0157475,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "3",
+    "addr:postcode": "BR1 1RL",
+    "addr:street": "Widmore Road",
+    "amenity": "pharmacy",
+    "check_date": "2023-09-17",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "fhrs:id": "987371",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Caxton Pharmacy",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "source": "survey",
+    "source:addr": "FHRS Open Data",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 583299437,
+  "lat": 51.4061226,
+  "lon": 0.0160290,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "9",
+    "addr:postcode": "BR1 1RL",
+    "addr:street": "Widmore Road",
+    "amenity": "restaurant",
+    "brand": "Nando's",
+    "brand:wikidata": "Q3472954",
+    "check_date": "2023-09-17",
+    "cuisine": "chicken;portuguese",
+    "fhrs:id": "358269",
+    "level": "0",
+    "name": "Nando's",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "source:addr": "FHRS Open Data",
+    "website": "https://www.nandos.co.uk/restaurants/bromley-widmore-road",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 583299441,
+  "lat": 51.4061361,
+  "lon": 0.0161748,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "11 - 13",
+    "addr:postcode": "BR1 1RL",
+    "addr:street": "Widmore Road",
+    "amenity": "restaurant",
+    "brand": "Zizzi",
+    "brand:wikidata": "Q8072944",
+    "check_date": "2023-09-17",
+    "cuisine": "italian",
+    "fhrs:id": "358215",
+    "level": "0",
+    "name": "Zizzi",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "source:addr": "FHRS Open Data",
+    "website": "https://www.zizzi.co.uk/italian/restaurants/bromley",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 693728413,
+  "lat": 51.4061941,
+  "lon": 0.0168280,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "25A",
+    "addr:postcode": "BR1 1RW",
+    "addr:street": "Widmore Road",
+    "amenity": "cafe",
+    "check_date": "2023-09-17",
+    "diet:vegetarian": "yes",
+    "fhrs:id": "358360",
+    "level": "0",
+    "name": "Terrace Cafe & Restaurant",
+    "opening_hours": "Mo-Sa 08:00-16:00; Su off",
+    "phone": "+44 20 8466 5584",
+    "source:addr": "FHRS Open Data"
+  }
+},
+{
+  "type": "node",
+  "id": 9919110478,
+  "lat": 51.4061463,
+  "lon": 0.0163028,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "15",
+    "addr:postcode": "BR1 1RL",
+    "addr:street": "Widmore Road",
+    "amenity": "restaurant",
+    "brand": "PizzaExpress",
+    "brand:wikidata": "Q662845",
+    "cuisine": "pizza",
+    "fhrs:id": "357566",
+    "level": "0",
+    "name": "PizzaExpress",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.pizzaexpress.com/bromley-widmore-road",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9919110480,
+  "lat": 51.4061137,
+  "lon": 0.0159193,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "7",
+    "addr:postcode": "BR1 1RL",
+    "addr:street": "Widmore Road",
+    "amenity": "fast_food",
+    "brand": "Slim Chickens",
+    "brand:wikidata": "Q30647224",
+    "cuisine": "chicken",
+    "fhrs:id": "1707997",
+    "level": "0",
+    "name": "Slim Chickens",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119071,
+  "lat": 51.4059136,
+  "lon": 0.0158240,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Widmore Road",
+    "contact:phone": "+44 20 8460 3343",
+    "level": "0",
+    "name": "B&J Fisheries",
+    "old_name": "The Bromley Fish Shop",
+    "opening_hours": "Mo,Su off; Tu-Sa 08:30-16:30",
+    "shop": "seafood"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119072,
+  "lat": 51.4058848,
+  "lon": 0.0168831,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housename": "United Reformed Church",
+    "addr:housenumber": "20",
+    "addr:postcode": "BR1 1RY",
+    "addr:street": "Widmore Road",
+    "amenity": "cafe",
+    "delivery": "no",
+    "fhrs:id": "1621760",
+    "name": "Rhiannon's Cafe",
+    "opening_hours": "Mo-Fr 10:00-16:00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119074,
+  "lat": 51.4059545,
+  "lon": 0.0168680,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "20",
+    "addr:postcode": "BR1 1RY",
+    "addr:street": "Widmore Road",
+    "amenity": "social_facility",
+    "email": "info@bromleyborough.foodbank.org.uk",
+    "fhrs:id": "595497",
+    "name": "Bromley Foodbank",
+    "opening_hours": "Tu 11:00-13:30; Th 12:30-14:30; PH off",
+    "phone": "+44 800 920 23 24",
+    "social_facility": "food_bank",
+    "social_facility:for": "underprivileged",
+    "source:addr": "FHRS Open Data",
+    "website": "https://bromleyborough.foodbank.org.uk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119076,
+  "lat": 51.4062567,
+  "lon": 0.0174137,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "37",
+    "addr:postcode": "BR1 1RW",
+    "addr:street": "Widmore Road",
+    "fhrs:id": "1842692",
+    "name": "Gym Beast",
+    "shop": "nutrition_supplements"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119077,
+  "lat": 51.4062439,
+  "lon": 0.0172687,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "33",
+    "addr:postcode": "BR1 1RW",
+    "addr:street": "Widmore Road",
+    "name": "Best Stitch",
+    "shop": "laundry"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119078,
+  "lat": 51.4062359,
+  "lon": 0.0171838,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "31",
+    "addr:postcode": "BR1 1RW",
+    "addr:street": "Widmore Road",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "disused:shop": "yes",
+    "name": "Rangoli Nest",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119080,
+  "lat": 51.4062232,
+  "lon": 0.0170313,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "29a",
+    "addr:postcode": "BR1 1RW",
+    "addr:street": "Widmore Road",
+    "amenity": "nightclub",
+    "name": "Cocktail Academia"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119081,
+  "lat": 51.4061675,
+  "lon": 0.0166586,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "23",
+    "addr:postcode": "BR1 1RW",
+    "addr:street": "Widmore Road",
+    "fhrs:id": "1842651",
+    "level": "0",
+    "name": "Candyland Bromley Local",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119083,
+  "lat": 51.4061783,
+  "lon": 0.0165802,
+  "tags": {
+    "addr:housenumber": "21a",
+    "addr:street": "Widmore Road",
+    "check_date": "2023-09-17",
+    "level": "1",
+    "name": "China Health",
+    "shop": "massage",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11068119084,
+  "lat": 51.4061689,
+  "lon": 0.0164857,
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:housenumber": "19",
+    "addr:postcode": "BR1 1RL",
+    "addr:street": "Widmore Road",
+    "amenity": "cafe",
+    "check_date": "2023-09-17",
+    "fhrs:id": "1203710",
+    "level": "0",
+    "name": "1917 Chill Cafe",
+    "source:addr": "FHRS Open Data",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11198017192,
+  "lat": 51.4061491,
+  "lon": 0.0165861,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "Widmore Road",
+    "check_date": "2023-09-17",
+    "contact:phone": "+44 20 3590 2152",
+    "level": "0",
+    "name": "Bromley Hardware",
+    "shop": "doityourself"
+  }
+},
+{
+  "type": "way",
+  "id": 5730767,
+  "bounds": {
+    "minlat": 51.4059237,
+    "minlon": 0.0154659,
+    "maxlat": 51.4061817,
+    "maxlon": 0.0174667
+  },
+  "geometry": [
+    { "lat": 51.4059237, "lon": 0.0154659 },
+    { "lat": 51.4059557, "lon": 0.0155467 },
+    { "lat": 51.4059735, "lon": 0.0156305 },
+    { "lat": 51.4059754, "lon": 0.0156419 },
+    { "lat": 51.4059812, "lon": 0.0156770 },
+    { "lat": 51.4060364, "lon": 0.0162659 },
+    { "lat": 51.4061817, "lon": 0.0174667 }
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "postal_code": "BR2",
+    "ref": "A222",
+    "surface": "asphalt",
+    "wikidata": "Q111335469"
+  }
+},
+{
+  "type": "way",
+  "id": 26425842,
+  "bounds": {
+    "minlat": 51.4063713,
+    "minlon": 0.0187177,
+    "maxlat": 51.4064764,
+    "maxlon": 0.0190788
+  },
+  "geometry": [
+    { "lat": 51.4063713, "lon": 0.0187177 },
+    { "lat": 51.4064182, "lon": 0.0188164 },
+    { "lat": 51.4064494, "lon": 0.0189254 },
+    { "lat": 51.4064764, "lon": 0.0190788 }
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "oneway": "yes",
+    "postal_code": "BR2",
+    "ref": "A222",
+    "surface": "asphalt",
+    "wikidata": "Q111335469"
+  }
+},
+{
+  "type": "way",
+  "id": 38382970,
+  "bounds": {
+    "minlat": 51.4063070,
+    "minlon": 0.0185764,
+    "maxlat": 51.4063713,
+    "maxlon": 0.0187177
+  },
+  "geometry": [
+    { "lat": 51.4063070, "lon": 0.0185764 },
+    { "lat": 51.4063713, "lon": 0.0187177 }
+  ],
+  "tags": {
+    "highway": "primary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "operator": "Transport for London",
+    "postal_code": "BR2",
+    "ref": "A222",
+    "surface": "asphalt",
+    "wikidata": "Q111335469"
+  }
+},
+{
+  "type": "way",
+  "id": 43587415,
+  "bounds": {
+    "minlat": 51.4063622,
+    "minlon": 0.0187177,
+    "maxlat": 51.4064833,
+    "maxlon": 0.0193338
+  },
+  "geometry": [
+    { "lat": 51.4064833, "lon": 0.0193338 },
+    { "lat": 51.4064065, "lon": 0.0191150 },
+    { "lat": 51.4063776, "lon": 0.0189921 },
+    { "lat": 51.4063643, "lon": 0.0189141 },
+    { "lat": 51.4063622, "lon": 0.0188717 },
+    { "lat": 51.4063631, "lon": 0.0187981 },
+    { "lat": 51.4063713, "lon": 0.0187177 }
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "oneway": "yes",
+    "postal_code": "BR2",
+    "ref": "A222",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|through|right",
+    "wikidata": "Q111335469"
+  }
+},
+{
+  "type": "way",
+  "id": 56254210,
+  "bounds": {
+    "minlat": 51.4056749,
+    "minlon": 0.0167729,
+    "maxlat": 51.4060820,
+    "maxlon": 0.0173956
+  },
+  "geometry": [
+    { "lat": 51.4056749, "lon": 0.0168424 },
+    { "lat": 51.4056841, "lon": 0.0169452 },
+    { "lat": 51.4057045, "lon": 0.0171087 },
+    { "lat": 51.4057280, "lon": 0.0170987 },
+    { "lat": 51.4057673, "lon": 0.0173956 },
+    { "lat": 51.4059180, "lon": 0.0173352 },
+    { "lat": 51.4059462, "lon": 0.0173780 },
+    { "lat": 51.4060418, "lon": 0.0173596 },
+    { "lat": 51.4060579, "lon": 0.0173580 },
+    { "lat": 51.4060710, "lon": 0.0173484 },
+    { "lat": 51.4060810, "lon": 0.0173339 },
+    { "lat": 51.4060820, "lon": 0.0172968 },
+    { "lat": 51.4060499, "lon": 0.0170505 },
+    { "lat": 51.4060448, "lon": 0.0170327 },
+    { "lat": 51.4060348, "lon": 0.0170231 },
+    { "lat": 51.4060137, "lon": 0.0170279 },
+    { "lat": 51.4060067, "lon": 0.0169619 },
+    { "lat": 51.4059853, "lon": 0.0167729 },
+    { "lat": 51.4056749, "lon": 0.0168424 }
+  ],
+  "tags": {
+    "addr:city": "Bromley",
+    "addr:country": "GB",
+    "addr:housenumber": "20",
+    "addr:postcode": "BR1 1RY",
+    "addr:street": "Widmore Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "check_date": "2023-08-05",
+    "contact:website": "http://www.bromleyurc.org.uk/",
+    "denomination": "united_reformed",
+    "name": "Bromley United Reformed Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 154819985,
+  "bounds": {
+    "minlat": 51.4065213,
+    "minlon": 0.0185918,
+    "maxlat": 51.4066173,
+    "maxlon": 0.0188803
+  },
+  "geometry": [
+    { "lat": 51.4066173, "lon": 0.0185918 },
+    { "lat": 51.4065492, "lon": 0.0187933 },
+    { "lat": 51.4065213, "lon": 0.0188803 }
+  ],
+  "tags": {
+    "highway": "primary_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left",
+    "wikidata": "Q111335469"
+  }
+},
+{
+  "type": "way",
+  "id": 607537585,
+  "bounds": {
+    "minlat": 51.4064764,
+    "minlon": 0.0188803,
+    "maxlat": 51.4065213,
+    "maxlon": 0.0190788
+  },
+  "geometry": [
+    { "lat": 51.4065213, "lon": 0.0188803 },
+    { "lat": 51.4064951, "lon": 0.0189769 },
+    { "lat": 51.4064764, "lon": 0.0190788 }
+  ],
+  "tags": {
+    "highway": "primary_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left",
+    "wikidata": "Q111335469"
+  }
+},
+{
+  "type": "way",
+  "id": 1338825658,
+  "bounds": {
+    "minlat": 51.4061817,
+    "minlon": 0.0174667,
+    "maxlat": 51.4063070,
+    "maxlon": 0.0185764
+  },
+  "geometry": [
+    { "lat": 51.4061817, "lon": 0.0174667 },
+    { "lat": 51.4061913, "lon": 0.0175748 },
+    { "lat": 51.4062358, "lon": 0.0179960 },
+    { "lat": 51.4062535, "lon": 0.0181889 },
+    { "lat": 51.4062585, "lon": 0.0182573 },
+    { "lat": 51.4062626, "lon": 0.0183087 },
+    { "lat": 51.4062817, "lon": 0.0184659 },
+    { "lat": 51.4063070, "lon": 0.0185764 }
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Widmore Road",
+    "name:etymology:wikidata": "Q98793266",
+    "postal_code": "BR2",
+    "ref": "A222",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left;through|through",
+    "turn:lanes:forward": "left;through|right",
+    "wikidata": "Q111335469"
+  }
+}
+
+  ]
+}
